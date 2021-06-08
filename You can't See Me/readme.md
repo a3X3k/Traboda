@@ -73,7 +73,7 @@ Filename --> 1.png ( Initial Image ) --> In my case
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/9.jpeg?raw=true)
 
-- Reference --> **https://wiki.bi0s.in/steganography/steghide/** 
+- Reference --> https://wiki.bi0s.in/steganography/steghide/
 
 - Here we get two **JPEG** images and download the images.
 - Since two images are given we can have a wild guess that this challenge can be solved using **Steghide** tool.
