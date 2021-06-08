@@ -43,7 +43,7 @@ $ dd if=<filename> of=<filename> bs=1 skip=<offset>
 $ dd if=1.png of=2.png bs=1 skip=7821
 ```
 
-- Here 7821 is one of the offsets of the file.
+- Here `7821` is one of the offsets of the file.
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/46.jpeg?raw=true)
 
