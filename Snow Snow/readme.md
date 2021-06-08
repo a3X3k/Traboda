@@ -2,16 +2,9 @@
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/1.jpeg?raw=true)
 
-```
-By the hint "Suspicious between these lines" we can understand that this challenge is based on the Whitespace Steganography.
-```
-
-- Reference --> https://wiki.bi0s.in/steganography/stegsnow/
-
-```
-By refering the wiki.bi0s.in we can get to know that there is a tool named Stegsnow which conceals messages in text files by appending tabs and whitespaces at the end of lines.
-```
-
+- By the hint `Suspicious between these lines` we can understand that this challenge is based on the `Whitespace Steganography`.
+- [`Bi0s Wiki Reference`](https://wiki.bi0s.in/steganography/stegsnow/)
+- By refering the wiki.bi0s.in we can get to know that there is a tool named Stegsnow which conceals messages in text files by appending tabs and whitespaces at the end of lines.
 - Download the txt file which has to be decrypted.
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/2.jpeg?raw=true)
@@ -41,8 +34,7 @@ ntio{eP1B35x4K3_aB3O0_q5_K00t}
 ```
 
 - The next step is to decryt the flag using cryptography.
-
-- Decryption Online Tool --> **https://www.dcode.fr/caesar-cipher**
+- [`Decryption Online Tool`](https://www.dcode.fr/caesar-cipher)
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/4.jpeg?raw=true)
 
