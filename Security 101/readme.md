@@ -22,5 +22,5 @@
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/17.jpeg?raw=true)
 
 ```
-Flag --> inctfj{1ts_4ll_f1ne_tru5t_m3}
+inctfj{1ts_4ll_f1ne_tru5t_m3}
 ```
