@@ -34,8 +34,8 @@ $ xdg-open f1
 - After opening the zip file we shall get a pdf.
 - If we open the **PDF** then we will be able to find that there is something hidden in the **whitespace**.
 - We shall understand that its **White Space Steganography**.
-- [`Reference`](https://wiki.bi0s.in/steganography/stegsnow/)
-- By refering the wiki.bi0s.in we can get to know that there is a tool named Stegsnow which conceals messages in text files by appending tabs and whitespaces at the end of lines.
+- 
+- By [`refering`](https://wiki.bi0s.in/steganography/stegsnow/) we shall get to know that there is a tool named Stegsnow which conceals messages in text files by appending tabs and whitespaces at the end of lines.
 - Download the txt file which has to be decrypted.
 
 ## Installation
