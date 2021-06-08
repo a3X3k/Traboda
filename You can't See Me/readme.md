@@ -66,3 +66,7 @@ Filename --> 1.png ( Initial Image ) --> In my case
  - Finally we get the `flag` in the corrected **PNG Image**.
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/8.jpeg?raw=true)
+
+```
+inctfj{WH4t_ar3_pNgCHUnkS?}
+```
