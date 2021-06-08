@@ -39,3 +39,7 @@ $ pdfcrack -f <file_name> -w <wordlist_file>
 - Password --> `fear420`
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/52.jpeg?raw=true)
+
+```
+inctfj{ass1stant_t0_th3_regi0nal_man4ger}
+```
