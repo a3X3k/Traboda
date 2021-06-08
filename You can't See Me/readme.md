@@ -8,7 +8,7 @@
 We can understand that there are some errors in the Hex values.
 ```
 
-- Reference --> https://wiki.bi0s.in/steganography/pngcheck/
+- [`Bi0s Wiki Reference`](https://wiki.bi0s.in/steganography/pngcheck/)
 
 - By refering the wiki.bi0s.in we can get to know that there is an official `PNG` tester and debugger tool named `Pngcheck`.
 - `Pngcheck` tests the `PNG` image files for corruption, display size, type, compression info.
@@ -44,7 +44,6 @@ Error 2 --> IDAT Chunk
 ## Decryption
 
 - The next step is to correct the errors using the `Hex` Editor.
-
 - `Ghex` is a tool which helps us to view and edit the hex data or hex dump of an image.
 
 ## Tool Installation
