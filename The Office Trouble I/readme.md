@@ -39,5 +39,5 @@ $ fcrackzip -v -u -D -p rockyou.txt 1.zip
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/23.jpeg?raw=true)
 
 ```
-Flag --> inctfj{dw1ght_1s_cr4zy_bu7_awes0me}
+inctfj{dw1ght_1s_cr4zy_bu7_awes0me}
 ```
