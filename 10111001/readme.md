@@ -24,7 +24,7 @@ $ zsteg <filename>
 - This is the Flag --> `NFXGG5DGNJ5TI3K7ORUDGX2MGNAVG5C7GVUUO3RRMYYWGNDOKRPWEVKUL4YV6YZUJZPXI4RQOVBEYM27LEYHKXZUL5WDAVD5`.
 - It is encoded in `Base32` format.
 - We need to decode it to get the `flag`.
-- `Online Tool` --> https://emn178.github.io/online-tools/base32_decode.html
+- [`Online Tool`](https://emn178.github.io/online-tools/base32_decode.html)
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/37.jpeg?raw=true)
 
