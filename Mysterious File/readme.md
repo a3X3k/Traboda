@@ -5,3 +5,7 @@
 - If we change the `Extension` of the file we will get the `flag`.
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/75.jpeg?raw=true)
+
+```
+inctfj{3xt3ns10ns_m1sl3ad}
+```
