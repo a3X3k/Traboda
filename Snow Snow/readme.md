@@ -16,13 +16,13 @@
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/2.jpeg?raw=true)
 
-#### Installation
+## Installation
 
 ```
 $ sudo apt install stegsnow
 ```
 
-#### Decryption
+## Decryption
 
 ```
 $ stegsnow -C <Filename>
