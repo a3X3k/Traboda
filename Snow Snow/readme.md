@@ -6,7 +6,7 @@
 By the hint "Suspicious between these lines" we can understand that this challenge is based on the Whitespace Steganography.
 ```
 
-- Reference --> **https://wiki.bi0s.in/steganography/stegsnow/** 
+- Reference --> https://wiki.bi0s.in/steganography/stegsnow/
 
 ```
 By refering the wiki.bi0s.in we can get to know that there is a tool named Stegsnow which conceals messages in text files by appending tabs and whitespaces at the end of lines.
