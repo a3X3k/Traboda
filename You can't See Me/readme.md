@@ -5,13 +5,13 @@
 - If we try to open the given **PNG** image it gives the **Invalid Format Error**. 
 
 ```
---> We can understand that there are some errors in the Hex values.
+We can understand that there are some errors in the Hex values.
 ```
 
-- Reference --> **https://wiki.bi0s.in/steganography/pngcheck/** 
+- Reference --> https://wiki.bi0s.in/steganography/pngcheck/
 
 ```
---> By refering the wiki.bi0s.in we can get to know that there is an official PNG tester and debugger tool named Pngcheck which tests the PNG image files for corruption, display size, type, compression info.
+By refering the wiki.bi0s.in we can get to know that there is an official PNG tester and debugger tool named Pngcheck which tests the PNG image files for corruption, display size, type, compression info.
 ```
 
 #### Installation
@@ -25,7 +25,7 @@ $ sudo apt install pngcheck
 ```
 $ pngcheck <Filename>
 
---> Filename = 1.png ( In my case )
+Filename = 1.png ( In my case )
 
 $ pngcheck 1.png
 ```
@@ -82,9 +82,9 @@ Filename --> 1.png ( Initial Image ) --> In my case
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/12.jpeg?raw=true)
 
 ```
---> By refering the wiki.bi0s.in we can get to know that there is a tool named Steghide which is used to embed and extract secret messages in images. 
+By refering the wiki.bi0s.in we can get to know that there is a tool named Steghide which is used to embed and extract secret messages in images. 
 
---> It supports all the general formats of images like .png, .jpg etc.
+It supports all the general formats of images like .png, .jpg etc.
 ```
 
 #### Installation
@@ -128,5 +128,5 @@ $ steghide extract -sf 2.jpeg
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/13.jpeg?raw=true)
 
 ```
-Flag --> inctfj{w3_4r3_pl4nt1ng_4_b0mb}
+inctfj{w3_4r3_pl4nt1ng_4_b0mb}
 ```
