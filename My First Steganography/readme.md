@@ -2,7 +2,7 @@
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/9.jpeg?raw=true)
 
-- Reference --> https://wiki.bi0s.in/steganography/steghide/
+- [`Reference In Bi0s Wiki`](https://wiki.bi0s.in/steganography/steghide/)
 
 - Here we get two **JPEG** images and download the images.
 - Since two images are given we can have a wild guess that this challenge can be solved using **Steghide** tool.
@@ -47,7 +47,7 @@ $ steghide extract -sf 2.jpeg
 ```
 
 - Then it prompts us to enter the **Passphrase**.
-- Since we have **Passphrase** we can enter `d4rk_s1d3` and click **ENTER**.
+- Since we have `Passphrase` we can enter `d4rk_s1d3` and click `ENTER`.
 - Now the data has been extracted in the file named `plans.txt`.
 
 ![Bi0s](https://github.com/a3X3k/Training/blob/main/Forensics/Assets/10.jpeg?raw=true)
