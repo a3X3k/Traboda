@@ -68,8 +68,16 @@ helloworld
 ![](https://github.com/a3X3k/Traboda/blob/main/FuzzY/7.png?raw=true)
 
 - So I made a [`Python Script`](https://github.com/a3X3k/Traboda/blob/main/FuzzY/1.py) to extract the `PNG` data using scapy.
+- Make sure that you are running this script in `python2`.
 
+## Installation
+
+```py
+sudo pip2 install scapy
+python2 Script.py
 ```
+
+```py
 from scapy.all import *
 
 f=rdpcap('1.pcap')
